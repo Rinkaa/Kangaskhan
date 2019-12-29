@@ -54,7 +54,7 @@ The current version is v0.1
             - [x] StackListStorage
             - [x] StackCellStorage
 
-### Coming Soon || 已规划 ###
+### TODOs || 已规划 ###
 
 - [ ] Unit tests
 - [ ] Sample console app
