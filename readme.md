@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/{username}/rinkaa/kangaskhan.svg)](http://hits.dwyl.io/{username}/rinkaa/kangaskhan)
+[![HitCount](http://hits.dwyl.io/rinkaa/kangaskhan.svg)](http://hits.dwyl.io/rinkaa/kangaskhan)
 
 # Kangaskhan || 袋兽 #
 
