@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/{username}/rinkaa/kangaskhan.svg)](http://hits.dwyl.io/{username}/rinkaa/kangaskhan)
+
 # Kangaskhan || 袋兽 #
 
 <blockquote style="min-width:240px;padding:14px">
