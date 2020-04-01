@@ -1,7 +1,7 @@
 # Kangaskhan || 袋兽 #
 
 <blockquote style="min-width:240px;padding:14px">
-    <img align="right" src="https://archives.bulbagarden.net/media/upload/d/d5/Spr_5b_115.png" />
+    <img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/kangaskhan.gif" />
     <span style="color:#00EEEE;">Kangaskhan</span>: Hello, there! Welcome to <span style="color:#00EE00;">Kangaskhan</span> Storage.
     <br/>
     <span style="color:#00EEEE;">袋兽</span>：甜心，欢迎来到<span style="color:#00EE00;">袋兽</span>仓库！
